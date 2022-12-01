@@ -22,7 +22,7 @@
  */
 
 function isTrue(input){
-    return input === true;
+    return input === true
 }
 function isFalse(input){
     return input === false
